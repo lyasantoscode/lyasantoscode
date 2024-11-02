@@ -1,19 +1,20 @@
 # Hey 👀
 
 ### Sobre Mim
-Sou Lya, uma entusiasta da tecnologia com uma paixão por explorar e aprender continuamente. Trabalho com desenvolvimento mobile focado em Android, sempre buscando soluções inovadoras e eficientes para criar aplicativos de qualidade.
+Sou Lya, uma entusiasta da tecnologia com uma paixão por explorar e aprender continuamente.
 
 ---
 
 ### 📚 Habilidades Técnicas (Key Hard Skills)
 
-Aqui estão algumas das minhas principais habilidades técnicas, que utilizo para desenvolver projetos inovadores e solucionar problemas:
+Aqui estão algumas das minhas principais habilidades técnicas, que utilizo para desenvolver projetos:
 
 ![KOTLIN](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![WEAR OS](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
