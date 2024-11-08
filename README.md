@@ -17,11 +17,6 @@ Aqui estão algumas das minhas principais habilidades técnicas, que utilizo par
 
 ---
 
-### 📁 Meu Repositório Destacado
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyasantoscode&repo=countries.json&theme=radical)](https://github.com/lyasantoscode/countries.json)
-
----
-
 ### 📈 Gráfico de Atividade Recente
 ![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lyasantoscode&theme=react-dark&hide_border=true&area=true)
 
