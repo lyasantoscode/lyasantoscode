@@ -15,12 +15,16 @@ Aqui estão algumas das minhas principais habilidades técnicas, que utilizo par
 ![WEAR OS](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ---
 
+### 📊 Minhas Contribuições Recentes
+![Lya's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lyasantoscode&theme=radical)
+
+### 📊 Estatísticas Gerais
+![Lya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyasantoscode&show_icons=true&theme=radical)
+
 ### 📊 Estatísticas de Linguagens Usadas em Projetos
-#### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyasantoscode&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyasantoscode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -37,5 +41,3 @@ Para saber mais sobre meus projetos e ver um pouco do meu trabalho, fique à von
 ---
 
 Espero que você goste do meu perfil! Sempre buscando melhorar e aprender mais. 😄
-
-
