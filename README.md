@@ -23,11 +23,7 @@ Aqui estão algumas das minhas principais habilidades técnicas, que utilizo par
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
-### 📊 Minhas Estatísticas no GitHub
-
-
-### 📈 Gráfico de Atividade Recente
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lyasantoscode&theme=react-dark&hide_border=true&area=true)
+![Lya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyasantoscode&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### 📊 Minhas Contribuições Recentes
 ![Lya's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lyasantoscode&theme=radical)
