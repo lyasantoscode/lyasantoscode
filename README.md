@@ -38,7 +38,7 @@ Aqui estão algumas das minhas principais habilidades técnicas, que utilizo par
 ### 🌐 Redes Sociais
 Conecte-se comigo no LinkedIn e acompanhe minha jornada no desenvolvimento de software!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcilene-santos-6b8241143/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alya-santos-315693337/)
 
 ---
 
