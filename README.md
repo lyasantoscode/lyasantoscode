@@ -1,7 +1,7 @@
 # Hey 👀
 
 ### Sobre Mim
-Sou Lya, uma entusiasta da tecnologia com uma paixão por explorar e aprender continuamente.
+Sou Lya, tenho interesse em tecnologia e estou nessa jornada de aprendizado constante. Embarque junto!
 
 ---
 
