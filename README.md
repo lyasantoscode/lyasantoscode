@@ -22,13 +22,13 @@ Aqui estão algumas das minhas principais habilidades técnicas, que utilizo par
 
 ---
 
+### 📊 Minhas Estatísticas no GitHub
+![Lya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyasantoscode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs&custom_title=Lya's%20GitHub%20Stats)
+
 ### 📊 Minhas Contribuições Recentes
 ![Lya's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lyasantoscode&theme=radical)
 
 ---
-
-### 📊 Estatísticas Gerais
-![Lya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyasantoscode&show_icons=true&theme=radical)
 
 ### 📊 Estatísticas de Linguagens Usadas em Projetos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyasantoscode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -38,7 +38,7 @@ Aqui estão algumas das minhas principais habilidades técnicas, que utilizo par
 ### 🌐 Redes Sociais
 Conecte-se comigo no LinkedIn e acompanhe minha jornada no desenvolvimento de software!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alya-santos-315693337/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcilene-santos-6b8241143/)
 
 ---
 
