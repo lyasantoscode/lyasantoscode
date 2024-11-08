@@ -1,7 +1,7 @@
 # Hey 👀
 
 ### Sobre Mim
-Sou Lya, tenho interesse em tecnologia e estou nessa jornada de aprendizado constante. Embarque junto!
+Sou Lya, que iniciou a jornada construindo robótica com peças eletrônicas recicláveis e papelão. Hoje, estou me aprofundando cada vez mais na tecnologia, com um foco especial em desenvolvimento mobile.
 
 ---
 
