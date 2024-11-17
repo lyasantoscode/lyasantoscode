@@ -1,7 +1,7 @@
 # Hey 👀
 
 ### Sobre Mim
-Sou Lya, que iniciou a jornada construindo robótica com peças eletrônicas recicláveis e papelão. Hoje, estou me aprofundando cada vez mais na tecnologia, com um foco especial em desenvolvimento mobile.
+Sou Lya, que iniciou a jornada construindo robótica com peças eletrônicas recicláveis e papelão. Hoje, estou me aprofundando cada vez mais na tecnologia, com um foco técnico em desenvolvimento mobile.
 
 ---
 
