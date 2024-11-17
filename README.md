@@ -48,4 +48,3 @@ Para saber mais sobre meus projetos e ver um pouco do meu trabalho, fique à von
 ---
 
 Espero que você goste do meu perfil! Sempre buscando melhorar e aprender mais. 😄
-
