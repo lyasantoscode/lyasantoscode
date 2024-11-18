@@ -15,7 +15,7 @@
 </div>
 
 ```java
-
+</>
 public class SobreMim {
 
     private String introducao;
@@ -53,8 +53,9 @@ public class SobreMim {
 }
 
 
-```java
+</div>
 
+```
 
 ### 📚 Habilidades Técnicas (Key Hard Skills)
 
