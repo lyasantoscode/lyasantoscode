@@ -14,6 +14,44 @@
 <br><br><br>
 </div>
 
+```java
+// Representação em Java no estilo fornecido
+
+public class SobreMim {
+
+    private String introducao;
+    private String role;
+    private String expertise;
+    private String journey;
+    private String objetivo;
+
+    public SobreMim() {
+        this.introducao = "👋 Hi! I'm Alya, who began the journey by building robotics with recyclable electronic parts and cardboard. "
+                        + "Today, I'm diving deeper into technology, with a special focus on mobile development.\n\n";
+        this.role = "🔹 Role: Android Developer | Focus on Java, Kotlin, and Jetpack Compose\n";
+        this.expertise = "🔹 Expertise: User Experience | Optimization | Modern & Efficient Solutions\n\n";
+        this.journey = "📚 My Journey\n\n"
+                     + "Started in Research & Development (R&D) during my undergrad, enhancing:\n\n"
+                     + " 🔍 Problem-solving skills\n"
+                     + " 💡 Logical thinking\n"
+                     + " 🌐 Adaptability with various languages (Python, C++)\n\n";
+        this.objetivo = "🚀 Here on LinkedIn\n\n"
+                      + "I share Android development projects and practical examples for beginners and advanced users, aiming to inspire and support others in building their skills.";
+    }
+
+    public void exibirMensagem() {
+        System.out.println(introducao);
+        System.out.println(role);
+        System.out.println(expertise);
+        System.out.println(journey);
+        System.out.println(objetivo);
+    }
+
+    public static void main(String[] args) {
+        SobreMim lya = new SobreMim();
+        lya.exibirMensagem();
+    }
+}
 
 
 
