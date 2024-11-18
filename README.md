@@ -15,7 +15,6 @@
 </div>
 
 ```java
-// Representação em Java no estilo fornecido
 
 public class SobreMim {
 
@@ -54,15 +53,8 @@ public class SobreMim {
 }
 
 
+```java
 
-
-
-# Hey 👀
-
-### Sobre Mim
-Sou Lya, que iniciou a jornada construindo robótica com peças eletrônicas recicláveis e papelão. Hoje, estou me aprofundando cada vez mais na tecnologia, com um foco técnico em desenvolvimento mobile.
-
----
 
 ### 📚 Habilidades Técnicas (Key Hard Skills)
 
