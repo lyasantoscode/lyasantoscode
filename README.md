@@ -60,9 +60,9 @@ public class SobreMim {
 
 ```
 
-### 📚 Habilidades Técnicas (Key Hard Skills)
+### 📚 Technical Skills <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-Aqui estão algumas das minhas principais habilidades técnicas, que utilizo para desenvolver projetos:
+Here are some of my key technical skills that I use to develop projects:
 
 ![KOTLIN](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -72,34 +72,37 @@ Aqui estão algumas das minhas principais habilidades técnicas, que utilizo par
 
 ---
 
-### 📈 Gráfico de Atividade Recente
+### 📈 Recent Activity Graph
 ![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lyasantoscode&theme=react-dark&hide_border=true&area=true)
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 My GitHub Statistics
 ![Lya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyasantoscode&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-### 📊 Minhas Contribuições Recentes
+### 📊 My Recent Contributions
 ![Lya's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lyasantoscode&theme=radical)
 
 ---
 
-### 📊 Estatísticas de Linguagens Usadas em Projetos
+### 📊 Statistics of Languages Used in Projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyasantoscode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-### 🌐 Redes Sociais
-Conecte-se comigo no LinkedIn e acompanhe minha jornada no desenvolvimento de software!
+---
+### 🌐 Social Networks
+Connect with me on LinkedIn and follow my journey in software development!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcilene-santos-6b8241143/)
 
 ---
 
-### 🚀 Projetos em Destaque
-Para saber mais sobre meus projetos e ver um pouco do meu trabalho, fique à vontade para explorar meus repositórios!
+### 🚀 Featured Projects  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
+To learn more about my projects and see some of my work, feel free to explore my repositories!
 
 ---
 
-Espero que você goste do meu perfil! Sempre buscando melhorar e aprender mais. 😄
+I hope you enjoy my profile! Always striving to improve and learn more. 😄
+
